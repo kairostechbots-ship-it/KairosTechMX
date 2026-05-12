@@ -1,0 +1,22 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme {
+  --color-primary-dark: #0A1F44;
+  --color-primary-bright: #1E88FF;
+  --color-primary-light: #E6F3FF;
+  
+  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-display: "Space Grotesk", sans-serif;
+}
+
+@layer utilities {
+  .glass-panel {
+    @apply bg-white/10 backdrop-blur-lg border border-white/20 shadow-xl;
+  }
+}
+
+html, body {
+  @apply bg-slate-50 text-slate-900;
+  scroll-behavior: smooth;
+}
