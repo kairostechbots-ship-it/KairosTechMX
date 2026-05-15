@@ -86,7 +86,7 @@ export default function Planes() {
             />
             <PlanCard 
               title="Software a la Medida"
-              desc="Desarrollo completo de sistemas CRM, ERP o plataformas únicas personalizadas para tu forma de trabajo."
+              desc="Desarrollo completo de sistemas CRM o plataformas únicas personalizadas para tu forma de trabajo."
               custom
             />
           </motion.div>

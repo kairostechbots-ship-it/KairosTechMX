@@ -70,7 +70,7 @@ export default function Portafolio() {
             />
             <ProjectCard 
               imgUrl="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=2426&ixlib=rb-4.0.3"
-              title="ERP Administrativo"
+              title="Sistema Administrativo"
               desc="Sistema centralizado para control de inventarios, finanzas, facturación y reportes analíticos con gráficas en tiempo real."
               tags={["Next.js", "PostgreSQL", "Dashboard"]}
             />

@@ -67,7 +67,7 @@ export default function Servicios() {
             <ServiceCard 
               icon={<Code className="w-10 h-10" />}
               title="Software a la Medida"
-              features={["Sistemas administrativos y control.", "ERP y CRM personalizados.", "Control de inventarios y flujo.", "Portales privados para empleados.", "Dashboards y reportes analíticos."]}
+              features={["Sistemas administrativos y control.", "Sistemas de gestión y CRM personalizados.", "Control de inventarios y flujo.", "Portales privados para empleados.", "Dashboards y reportes analíticos."]}
             />
             <ServiceCard 
               icon={<Settings className="w-10 h-10" />}
